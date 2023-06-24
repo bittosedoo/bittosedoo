@@ -4,7 +4,7 @@
 <img src="header.svg" />
 </h1>
 
-<p align="center"> <a href="https://twitter.com/iankisali_" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
 ---
 
@@ -32,7 +32,7 @@
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bittosedoo&show_icons=true&theme=github_dark&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittosedoo&layout=compact&langs_count=7&theme=github_dark"/>-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittosedoo&&theme=tokyonight" alt="bittosedoo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bittosedoo&theme=ambient-gradient&exclude_days=Sun)](https://git.io/streak-stats) />
 
 <br>
 <br>
