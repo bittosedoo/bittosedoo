@@ -32,7 +32,8 @@
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bittosedoo&show_icons=true&theme=github_dark&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittosedoo&layout=compact&langs_count=7&theme=github_dark"/>-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bittosedoo&theme=ambient-gradient&exclude_days=Sun />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittosedoo&&theme=ambient-gradient" alt="bittosedoo" />
+
 
 <br>
 <br>
