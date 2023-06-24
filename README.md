@@ -8,7 +8,7 @@
 
 ---
 
-- 👀 I’m interested in Tech
+- 👀 Profound interest in the realm of software engineering
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa**.
 
