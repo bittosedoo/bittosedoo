@@ -1,15 +1,3 @@
-- 👋 Hi, I’m Bitto Sedoo
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Software Engineering at ALX
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me sedoo.software.alx@gmail.com
-
-
-
-
-
-
-
 <!--<h1 align="center">Hi there 👋, I'm Bitto Sedoo</h1>-->
 
 <h1 align = "center">
@@ -61,8 +49,12 @@
 
 
 <!---
-- 🌱 I’m currently doing short specialization as a Backend Engineer.
+- 👋 Hi, I’m Bitto Sedoo
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me sedoo.software.alx@gmail.com
+- 🌱 I’m currently doing short specialization as a Backend Engineer.
 - 🌱 Working on Data Structures and Algorithms in C. Check out **[here](https://github.com/bittosedoo/C-Data-Structures-Algorithms)**. Feel free to contribute via PR.
 
 
