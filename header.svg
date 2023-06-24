@@ -54,7 +54,7 @@
           white-space: nowrap;
           overflow: hidden;
           border-right: 3px solid;
-          font-family: calligraphic;
+          font-family: helvetica;
           font-size: 2em;
         }
 
