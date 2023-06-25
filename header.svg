@@ -32,7 +32,7 @@
 					margin: 0;
 					width: 100%;
 					height: 200px;
-					background: linear-gradient(-45deg, #FFAA33, #996633, #FF6633); //#FF7F50, #9932CC, #E75480);
+					background: linear-gradient(-45deg,#FFB266, #8B4513, #FF6633); //#FF7F50, #9932CC, #E75480);
 					background-size: 400% 400%;
 					animation: ambient-gradient 15s ease infinite;
 					border-radius: 10px;
